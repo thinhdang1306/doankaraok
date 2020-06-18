@@ -1,0 +1,10 @@
+D:\DoAn_PTPM\DangNhap\DangNhap\bin\Debug\DangNhap.exe.config
+D:\DoAn_PTPM\DangNhap\DangNhap\obj\Debug\DangNhap.csprojResolveAssemblyReference.cache
+D:\DoAn_PTPM\DangNhap\DangNhap\obj\Debug\DangNhap.Form1.resources
+D:\DoAn_PTPM\DangNhap\DangNhap\obj\Debug\DangNhap.Properties.Resources.resources
+D:\DoAn_PTPM\DangNhap\DangNhap\obj\Debug\DangNhap.csproj.GenerateResource.Cache
+D:\DoAn_PTPM\DangNhap\DangNhap\bin\Debug\DangNhap.exe
+D:\DoAn_PTPM\DangNhap\DangNhap\bin\Debug\DangNhap.pdb
+D:\DoAn_PTPM\DangNhap\DangNhap\obj\Debug\DangNhap.exe
+D:\DoAn_PTPM\DangNhap\DangNhap\obj\Debug\DangNhap.pdb
+D:\DoAn_PTPM\DangNhap\DangNhap\obj\Debug\DangNhap.frmmaMain.resources
